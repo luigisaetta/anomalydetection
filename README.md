@@ -3,7 +3,7 @@
 ## Author: L. Saetta
 
 ### Starting Date:   10/04/2020
-### Last update:     14/04/2020
+### Last update:     05/10/2020
 ###                  luigi.saetta@gmail.com
 
 This repository contains all the artefacts for my work on Anomaly Detection with ML
@@ -19,5 +19,11 @@ Project1:
 
 Analysis with PyOD and AutoEncoders
 
+Project2:
+
+** Dataset ECG5000 from Physionet
+
+ECG fragment analysis to identify those with anomalies
+Autencoder and Conv1D (acc > 0.99)
 
 
