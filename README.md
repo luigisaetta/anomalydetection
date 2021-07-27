@@ -1,7 +1,6 @@
 # Anomaly Detection
 #
 
-#### Starting Date:   10/04/2020
 #### Last update:     27/07/2021
 ####                  luigi.saetta@gmail.com
 
