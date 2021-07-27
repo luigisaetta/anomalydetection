@@ -13,9 +13,8 @@ This repository contains all the artefacts for my work on Anomaly Detection with
 
 ### Project1:
 
-** Data from NASA Prognostic Repository: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
-
-** see Bearing Data Set
+* Data from NASA Prognostic Repository: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+* see Bearing Data Set
 
 * Predictive mainteinance using data from ball bearings.
 * Analysis with PyOD and AutoEncoders
