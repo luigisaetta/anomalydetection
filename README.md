@@ -14,8 +14,9 @@ This repository contains all the artefacts for my work on Anomaly Detection with
 * Data from NASA Prognostic Repository: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 * see Bearing Data Set
 * Predictive mainteinance using data from ball bearings.
-* Analysis with AutoEncoders (Keras) and PyOD
+* Analysis with AutoEncoders (Keras) and PyOD (Isolation Forest and AutoEncoder)
 * used in 27/07/2021 workshop
+* used in ML/AI Community event 07/10/2021
 
 ### Project2:
 
